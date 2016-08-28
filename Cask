@@ -9,6 +9,7 @@
  (depends-on "dash-functional")
  (depends-on "s")
  (depends-on "f")
+ (depends-on "deferred")
  (depends-on "ecukes")
  (depends-on "ert-runner")
  (depends-on "el-mock"))
